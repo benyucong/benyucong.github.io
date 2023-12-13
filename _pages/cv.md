@@ -56,7 +56,8 @@ Skills
   * C/C++, Python, OCaml, Scala, LLVM
 * Tools
   * Linux, vim, git, bash, tmux
-<!-- Service and leadership
-======
+  
+<!-- Service and leadership -->
+<!-- ====== -->
 
-* Currently signed in to 43 different slack teams -->
+<!-- * Currently signed in to 43 different slack teams -->
