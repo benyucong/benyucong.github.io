@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Aalto University, Aalto University, 2027 (expected)
+* M.S. in Computer Science, National University of Singapore, 2023
+* M.S. in Electrical Engineering, University of Southern California, 2019
+* B.S. in Electronic and Information Engineering, Beihang University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: Backend Engineer Intern (Data Engine Development)
+  * TikTok Pte. Ltd.
+  * Mentor: [Zhaojie Niu](https://www.linkedin.com/in/zhaojie-niu-ethereum/)
+
+* Winter 2022: Engineer Intern
+  * StarFive Technology Co., Ltd.
+  * Mentor: [Zhiguo Ge](https://www.linkedin.com/in/zhiguo-ge-39b0a120/)
 
 Publications
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+
+* Programming
+  * C/C++, Python, OCaml, Scala, LLVM
+* Tools
+  * Linux, vim, git, bash, tmux
+<!-- Service and leadership
+======
+
+* Currently signed in to 43 different slack teams -->
