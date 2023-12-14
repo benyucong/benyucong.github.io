@@ -15,7 +15,7 @@ Education
 * Doctoral Researcher in Computer Science, Aalto University (Currently)
 * M.S. in Computer Science, National University of Singapore, 2023
 * M.S. in Electrical Engineering, University of Southern California, 2019
-* B.S. in Electronic and Information Engineering, Beihang University, 2018
+* B.E. in Electronic and Information Engineering, Beihang University, 2018
 
 Work & Research Experience
 ======
@@ -46,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Posters
 ======
 
   <ul>{% for post in site.talks %}
