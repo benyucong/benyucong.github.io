@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra for Engineering(USC EE510), Grader"
+title: "Linear Algebra for Engineering (USC EE510) Grader"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2019-fall-teaching-1
@@ -7,3 +7,5 @@ venue: "University of Southern California, Department of Electrical and Computer
 date: 2019-08-15
 location: "Los Angeles, USA"
 ---
+
+Grading student assignments, exam papers and answering relevant questions on [Piazza](https://piazza.com/).

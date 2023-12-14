@@ -29,7 +29,7 @@ Work & Research Experience
   * Mentor: [Zhiguo Ge](https://www.linkedin.com/in/zhiguo-ge-39b0a120/)
 
 * Summer 2020: Software Engineer Intern
-  * Institute for Quantum Computing, Baidu,
+  * Institute for Quantum Computing, Baidu
 
 * Summer 2019: Directed Research Student
   * University of Southern California
