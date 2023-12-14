@@ -17,7 +17,7 @@ I'm a doctoral researcher from [Department of Computer Science, Aalto University
 
 I was advised by [Prof. Todd Brun](https://sites.usc.edu/tbrun/) at University of Southern California, and [Prof. M. P. Anantram](https://sites.uw.edu/anantmp/) at University of Washington.
 
-You can find my CV here: [Curriculum Vitae](../assets/Cong_CV.pdf).
+You can find my CV here: [Curriculum Vitae](../assets/cv.pdf).
 
 <!-- Getting started
 ======
