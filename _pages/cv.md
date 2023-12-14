@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Aalto University, Aalto University, 2027 (expected)
+* Doctoral Researcher in Computer Science, Aalto University (Currently)
 * M.S. in Computer Science, National University of Singapore, 2023
 * M.S. in Electrical Engineering, University of Southern California, 2019
 * B.S. in Electronic and Information Engineering, Beihang University, 2018
