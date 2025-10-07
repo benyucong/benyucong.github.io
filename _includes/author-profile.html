@@ -120,7 +120,15 @@
       {% endif %}
       {% if author.links %}
         {% for link in author.links %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">
+            {% if link.icon contains 'fa-' %}
+              <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+            {% else %}
+              {% capture icon_path %}_includes/svg/{{ link.icon }}.svg{% endcapture %}
+              <span class="icon" aria-hidden="true">{% include svg/{{ link.icon }}.svg %}</span>
+            {% endif %}
+            {{ link.label }}
+          </a></li>
         {% endfor %}
       {% endif %}
     </ul>
