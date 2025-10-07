@@ -39,7 +39,7 @@ Work & Research Experience
   * University of Washington
   * Supervisor: [M.P.(Anant) Anantram](https://sites.uw.edu/anantmp/)
 
-Publications
+<!-- Publications
 ======
 
   <ul>{% for post in site.publications %}
@@ -51,7 +51,7 @@ Posters
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======

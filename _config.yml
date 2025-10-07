@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  links:
+    - label: "Hugging Face"
+      icon: "fas fa-link"
+      url: "https://huggingface.co/Benyucong"
 
 
 # Reading Files
