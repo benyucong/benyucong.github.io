@@ -117,7 +117,7 @@ author:
   wikipedia        :
   links:
     - label: "Hugging Face"
-      icon: "fas fa-fw fa-link" # added fa-fw for consistent width
+      icon: "fas fa-fw fa-smile" # smile/robot icon as HF placeholder
       url: "https://huggingface.co/Benyucong"
 
 
