@@ -117,7 +117,7 @@ author:
   wikipedia        :
   links:
     - label: "Hugging Face"
-      icon: "fas fa-link"
+      icon: "fas fa-fw fa-link" # added fa-fw for consistent width
       url: "https://huggingface.co/Benyucong"
 
 
