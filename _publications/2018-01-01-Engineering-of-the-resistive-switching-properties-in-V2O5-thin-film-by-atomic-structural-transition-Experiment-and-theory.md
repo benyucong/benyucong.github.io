@@ -1,6 +1,7 @@
 ---
-title: "Engineering of the resistive switching properties in V2O5 thin film by atomic structural transition: Experiment and theory"
+title: "<span style='color:green'>[J. Appl. Phys. (2018)]</span> Engineering of the resistive switching properties in V2O5 thin film by atomic structural transition: Experiment and theory"
 collection: publications
+authors: 'Zhenni Wan, Hashem Mohammad, Yunqi Zhao, Cong Yu, Robert B. Darling, M. P. Anantram'
 permalink: /publication/2018-01-01-Engineering-of-the-resistive-switching-properties-in-V2O5-thin-film-by-atomic-structural-transition-Experiment-and-theory
 date: 2018-01-01
 venue: 'Journal of Applied Physics'
