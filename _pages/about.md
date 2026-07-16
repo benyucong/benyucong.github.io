@@ -13,7 +13,7 @@ redirect_from:
 About me
 ======
 
-I'm a doctoral researcher from [Department of Computer Science, Aalto University](https://aalto.fi/en/department-of-computer-science), where I'm very fortunate to be advised by [Prof. Bo Zhao](https://zbjob.github.io/). My research interest includes data management systems, machine learning systems and quantum computing systems.
+I'm a doctoral researcher from [Department of Computer Science, Aalto University](https://aalto.fi/en/department-of-computer-science). My research interest includes data management systems, machine learning systems and quantum computing systems.
 
 I was advised by [Prof. Todd Brun](https://viterbi.usc.edu/directory/faculty/Brun/Todd) at University of Southern California, and [Prof. M. P. Anantram](https://sites.uw.edu/anantmp/) at University of Washington.
 
