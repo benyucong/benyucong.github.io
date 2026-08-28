@@ -13,6 +13,7 @@ Education
 ======
 
 * Doctoral Researcher in Computer Science, Aalto University (Currently)
+  * Supervisor: [Francesco Croce](https://fra31.github.io/)
 * M.S. in Computer Science, National University of Singapore, 2023
 * M.S. in Electrical Engineering, University of Southern California, 2019
 * B.E. in Electronic and Information Engineering, Beihang University, 2018
