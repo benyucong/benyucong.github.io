@@ -15,7 +15,7 @@ About me
 
 I'm a doctoral researcher from [Department of Computer Science, Aalto University](https://aalto.fi/en/department-of-computer-science). My research interests include machine learning, machine learning systems, and memory systems for AI agents. I'm very fortunate to be supervised by [Prof. Francesco Croce](https://fra31.github.io/).
 
-I was advised by [Prof. Todd Brun](https://viterbi.usc.edu/directory/faculty/Brun/Todd) at University of Southern California, and [Prof. M. P. Anantram](https://sites.uw.edu/anantmp/) at University of Washington.
+Before moving into machine learning, I studied quantum computing. I was advised by [Prof. Todd Brun](https://viterbi.usc.edu/directory/faculty/Brun/Todd) at University of Southern California, and [Prof. M. P. Anantram](https://sites.uw.edu/anantmp/) at University of Washington.
 
 You can find my CV here: [Curriculum Vitae](../assets/cv.pdf).
 
